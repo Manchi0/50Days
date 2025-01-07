@@ -1,4 +1,4 @@
-# 50Days
-Repo where I will commit something learned that day for 50 days
+# Hw
+Repo where I will commit random homework
 
 Start date: November 10, 2024
